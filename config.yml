@@ -1,0 +1,29 @@
+baseURL: 'http://localhost:1313/'
+languageCode: pt-br
+theme: blog-theme
+title: Lepidus Tecnologia
+
+params:
+  images:
+    logoLepidus: /images/lepidus.png
+
+menu:
+  nav:
+  - name: Inicio
+    url: /
+    weight: 1
+  - name: Sobre a Lepidus
+    url: /quem-somos/
+    weight: 2
+  - name: Periódicos em Nuvens
+    url: /periodicos-em-nuvens/
+    weight: 3
+  - name: Eventos em Nuvens
+    url: /eventos-em-nuvens/
+    weight: 4
+  - name: Grupo em Nuvens
+    url: /grupo-em-nuvens/
+    weight: 5
+  - name: Fale Conosco
+    url: /contato/
+    weight: 6

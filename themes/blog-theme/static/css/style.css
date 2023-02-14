@@ -1,0 +1,15 @@
+#content {
+  margin-top: .9375rem;
+}
+
+#content h1 {
+  font-size: 2.5rem;
+  color: #333333;
+  margin: .5rem auto;
+}
+
+#content p {
+  font-size: 1.25rem;
+  color: #444444;
+  margin: .5rem auto;
+}
